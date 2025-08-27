@@ -1,9 +1,6 @@
-# Enhanced Downloads Folder Organizer
-# Addresses common issues and includes comprehensive file type support
 
 $downloadPath = "$env:USERPROFILE\Downloads"
 
-# Comprehensive file extension rules (duplicates removed)
 $rules = @{
     # Documents
     ".pdf"      = "PDFs"

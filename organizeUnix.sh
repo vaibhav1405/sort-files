@@ -1,8 +1,3 @@
-#!/bin/bash
-
-# Enhanced Downloads Folder Organizer - Linux Version
-# Addresses common issues and includes comprehensive file type support
-
 # Set downloads path (default to ~/Downloads, can be overridden)
 DOWNLOAD_PATH="${1:-$HOME/Downloads}"
 
